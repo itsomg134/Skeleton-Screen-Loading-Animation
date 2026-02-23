@@ -2,7 +2,7 @@
 
 A modern, customizable skeleton loading component with a vibrant color-shifting shimmer effect. Built with pure HTML and CSS — no JavaScript required.
 
-![Skeleton Screen Preview](preview.png)
+![Screenshot_23-2-2026_211544_127 0 0 1](https://github.com/user-attachments/assets/2044ba71-d249-4864-9b16-06fe7ea06c26)
 
 ## Features
 
