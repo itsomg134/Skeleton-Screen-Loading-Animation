@@ -150,6 +150,21 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Share color scheme variations
 
+## Contact
+
+Om Gedam
+
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
+
+
 ##  License
 
 MIT License — feel free to use in personal and commercial projects.
